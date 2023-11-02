@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+}
+
+.text-opensans {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.text-inter{
+    font-family: 'Inter', sans-serif;
+}
+
