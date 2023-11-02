@@ -1,7 +1,7 @@
 
 export const Footer = () => {
   return (
-    <section className="text-opensans absolute bottom-[-80px] px-4">
+    <section className="text-opensans absolute pb-6 bottom-0 px-4 bg-white">
       <ul className="flex text-xs gap-[10px] font-extralight text-[#0D5287]">
         <li className="">Terms</li>
         <li className="">Privacy</li>

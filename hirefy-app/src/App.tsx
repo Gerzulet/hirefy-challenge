@@ -9,7 +9,7 @@ function App() {
     <>
 
 
-      <section className='w-[281px] h-[844px] bg-white rounded-tr-2xl rounded-br-2xl '>
+      <section className='w-[281px] relative h-[844px] bg-white rounded-tr-2xl rounded-br-2xl '>
         <Header></Header>
         <MainSection></MainSection>
         <Footer></Footer>
